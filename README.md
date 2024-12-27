@@ -3,6 +3,9 @@
 This project is a **Streamlit-based WebGPT chatbot** that integrates OpenAI's GPT models with internet search capabilities powered by DuckDuckGo. The chatbot can perform conversational tasks, respond intelligently using GPT models, and fetch real-time information from the web when necessary.
 
 ---
+ ### WEBGPT_INTERFACE
+ ###![image](https://github.com/user-attachments/assets/dc5e45a7-51dd-4753-87cf-39acd5de039c)
+
 
 ## 🌟 Features
 

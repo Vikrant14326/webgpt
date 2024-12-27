@@ -1,10 +1,16 @@
-# WebGPT Chatbot with Internet Search Capabilities
+###Function calling and addressing the LLM knowledge cut-off with real-time web search using GPT models
 
-This project is a **Streamlit-based WebGPT chatbot** that integrates OpenAI's GPT models with internet search capabilities powered by DuckDuckGo. The chatbot can perform conversational tasks, respond intelligently using GPT models, and fetch real-time information from the web when necessary.
+#WebGPT is a powerful tool enabling users to pose questions that require internet searches. Leveraging GPT models:
+
+#.It identifies and executes the most relevant given Python functions in response to user queries.
+#.The second GPT model generates responses by combining user queries with content retrieved from the web search engine.
+#.The user-friendly interface is built using Streamlit
+#.The web search supports diverse searches such as text, news, PDFs, images, videos, maps, and instant responses.
+#.Overcoming knowledge-cutoff limitations, the chatbot delivers answers based on the latest internet content.
 
 ---
  ### WEBGPT_INTERFACE
- ###![image](https://github.com/user-attachments/assets/dc5e45a7-51dd-4753-87cf-39acd5de039c)
+ ##![image](https://github.com/user-attachments/assets/dc5e45a7-51dd-4753-87cf-39acd5de039c)
 
 
 ## 🌟 Features
@@ -16,6 +22,10 @@ This project is a **Streamlit-based WebGPT chatbot** that integrates OpenAI's GP
 - **Session Management**: Maintains chat history and conversation context.
 
 ---
+
+##Project Schema
+##![image](https://github.com/user-attachments/assets/73ecd443-eca1-462c-8d61-7d3817d381d3)
+
 
 ## ⚙️ Installation
 

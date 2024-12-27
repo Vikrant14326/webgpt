@@ -28,14 +28,7 @@ This project is a **Streamlit-based WebGPT chatbot** that integrates OpenAI's GP
    git clone https://github.com/<your-username>/<repo-name>.git
    cd <repo-name>
 
-<repo-name>/
-├── requirements.txt       # Dependencies for the project
-├── webgpt_app.py          # Main Streamlit application
-├── web_search.py          # Module for DuckDuckGo search functions
-└── utils/
-    ├── load_config.py     # Configuration loader (not provided in files)
-    ├── app_utils.py       # Utility functions for the app (not provided in files)
-    └── ...                # Other helper modules
+![image](https://github.com/user-attachments/assets/9966c9b4-a2d7-45a0-aa0b-f6ff9c04a6da)
 
 
 

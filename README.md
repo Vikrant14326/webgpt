@@ -1,16 +1,16 @@
-###Function calling and addressing the LLM knowledge cut-off with real-time web search using GPT models
+### Function calling and addressing the LLM knowledge cut-off with real-time web search using GPT models
 
-#WebGPT is a powerful tool enabling users to pose questions that require internet searches. Leveraging GPT models:
+# WebGPT is a powerful tool enabling users to pose questions that require internet searches. Leveraging GPT models:
 
-#.It identifies and executes the most relevant given Python functions in response to user queries.
-#.The second GPT model generates responses by combining user queries with content retrieved from the web search engine.
-#.The user-friendly interface is built using Streamlit
-#.The web search supports diverse searches such as text, news, PDFs, images, videos, maps, and instant responses.
-#.Overcoming knowledge-cutoff limitations, the chatbot delivers answers based on the latest internet content.
+# .It identifies and executes the most relevant given Python functions in response to user queries.
+# .The second GPT model generates responses by combining user queries with content retrieved from the web search engine.
+# .The user-friendly interface is built using Streamlit
+# .The web search supports diverse searches such as text, news, PDFs, images, videos, maps, and instant responses.
+# .Overcoming knowledge-cutoff limitations, the chatbot delivers answers based on the latest internet content.
 
 ---
  ### WEBGPT_INTERFACE
- ##![image](https://github.com/user-attachments/assets/dc5e45a7-51dd-4753-87cf-39acd5de039c)
+ ## ![image](https://github.com/user-attachments/assets/dc5e45a7-51dd-4753-87cf-39acd5de039c)
 
 
 ## 🌟 Features
